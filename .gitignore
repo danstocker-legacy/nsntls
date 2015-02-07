@@ -1,3 +1,5 @@
 .idea
 node_modules
+out
+nsntls.js
 *.tgz
