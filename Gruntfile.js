@@ -11,6 +11,7 @@ module.exports = function (grunt) {
             'js/behavior/Stateful.js',
             'js/behavior/Lineage.js',
             'js/behavior/Progenitor.js',
+            'js/behavior/JournalingCollection.js',
             'js/exports.js'
         ],
 
