@@ -1,5 +1,5 @@
-Sntls
-=====
+Nsntls
+======
 
 *Pronounced: "Inessentials"*
 
